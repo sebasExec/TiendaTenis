@@ -111,7 +111,7 @@ body{
     
 }
 .nav-aside{
-    padding-top: 50px;
+    padding-top: 20px;
     padding-left: 50px;
     color: white;
     text-align: center;
@@ -137,7 +137,7 @@ body{
 .CH-compras{
     list-style: none;
     padding-top: 20px;
-    
+   
     
     
 }
@@ -153,11 +153,13 @@ body{
 
 .CHItem{
     margin: 0px 10px;
-    padding-bottom: 15px;
+    padding-bottom: 30px;
     
 }
 .imagenesHM{
     border-radius: 20px;
+    width: 450px;
+    height: 330px;
 }
 .contenidoH{
     background-color: #F1F4F5;
@@ -175,6 +177,10 @@ body{
 #imagenMenu{
     width: 800px;
     border-radius: 20px;
+}
+.Oferta{
+    color: red;
+    font-stretch: expanded;
 }
 
 .headersMenu{
